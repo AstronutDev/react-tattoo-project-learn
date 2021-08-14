@@ -1,0 +1,14 @@
+.tattoo-item {
+    display: block;
+    width: 300px;
+    height: 300px;
+  }
+  
+  .eachImg {
+    width: 400px;
+    height: 300px;
+  }
+  
+  .pic-title {
+    margin: 0;
+  }
